@@ -1,4 +1,3 @@
-
 ### Filter design
 
 In this simulation, the robot has a state vector includes 4 states at time $t$.
